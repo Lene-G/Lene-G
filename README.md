@@ -1,4 +1,4 @@
-## Hi there 👋
+## I am the bug. 👋
 
 <!--
 **Lene-G/Lene-G** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
